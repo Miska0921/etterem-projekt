@@ -1,12 +1,12 @@
 # Étterem projekt / Restaurant app
 
 ### Készítette/Made by:
+* Vancskó Mihály
 * Boros Dávid
 * Farmasi Attila
 * Katona Benjámin
 * Reményi Olivér
 * Szögi Bence
-* Vancskó Mihály
 
 ---
 
